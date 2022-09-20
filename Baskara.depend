@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658352433 source:c:\users\bruno\documents\c.c++\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
